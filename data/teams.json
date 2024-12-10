@@ -1,0 +1,17 @@
+{
+    "teams": {
+      "jhojander": {
+        "team": ["greninja", "tyranitar", "roaring-moon", "krookodile", "dragapult", "garchomp"]
+      },
+      "yuban": {
+        "team": ["rotom", "magnezone", "volcarona", "electivire", "talonflame", "arcanine"]
+      },
+      "joseph": {
+        "team": ["tyranitar", "aggron", "metagross", "tyrantrum", "lucario", "kleavor"]
+      },
+      "kevin": {
+        "team": ["alakazam", "golurk", "gengar", "dragapult", "typhlosion", "metagross"]
+      }
+    }
+  }
+  
